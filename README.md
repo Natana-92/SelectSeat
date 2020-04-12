@@ -1,24 +1,8 @@
-# select-seat
+# 자리 배치 프로그램입니다.
 
-## Project setup
-```
-npm install
-```
+1. 카드 생성.
+2. 카드 섞기.
+3. 카드 Seat 배분.
+4. 최종 결과물 출력.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+위의 로직을 Vue js를 사용하여 구현합니다.
